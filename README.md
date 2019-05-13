@@ -4,6 +4,15 @@
 
 This software is the implementation for the following publication. B. Chung and C. Yim,"Bi-sequential Video Error Concealment Method Using Adaptive Homography-based Registration," IEEE Transactions on Circuits and Systems for Video Technology, 2019.
 
+Other error concealment and inpainting methods are also implemented in the software.
+
+2D method
+- Bilinear interpolation (BI) method
+- diffusion-based inpainting (DI)
+
+3D method
+- Temporal replacement (TR) method
+
 ## Summary
 
 This paper proposes a novel video error concealment method for the reconstruction of all unknown regions in frames. 
