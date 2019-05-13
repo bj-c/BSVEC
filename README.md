@@ -45,8 +45,6 @@ ACM Trans. Graph., vol. 35, no. 6, Art. 196, Nov. 2016.
 ## DataSet
 [DataSet](http://ivp.konkuk.ac.kr/files/DataSet.zip)
 
-# Input video and Mask video
-
 1. Parking Lot video (CTU type, Loss rate=5%)
 2. Parking Lot video (CTU type, Loss rate=10%)
 3. Parking Lot video (CTU type, Loss rate=20%)
