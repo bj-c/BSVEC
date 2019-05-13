@@ -16,6 +16,9 @@ Other error concealment and inpainting methods are also implemented in the softw
 
 <img src="https://github.com/bj-c/BSVEC/blob/master/software.png" width="1000"/>
 
+## TCSVT 2019 Paper
+[TCSVT 2019 Paper](https://ieeexplore.ieee.org/document/8682097)
+
 ## Summary
 
 This paper proposes a novel video error concealment method for the reconstruction of all unknown regions in frames. 
@@ -33,9 +36,6 @@ After the backward direction TEC is performed in each frame, spatial error conce
 Experimental results show that the proposed method gives significantly improved objective and subjective video quality compared with the traditional reconstruction methods. 
 
 The proposed method also gives comparably good reconstruction results for large size unknown regions and is feasible for practical real-time applications.
-
-## TCSVT 2019 Paper
-[TCSVT 2019 Paper](https://ieeexplore.ieee.org/document/8682097)
 
 ## Project Demo
 [Demo](http://ivp.konkuk.ac.kr/bsvec)
