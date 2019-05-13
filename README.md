@@ -28,5 +28,5 @@ The proposed method also gives comparably good reconstruction results for large 
 ## Project Demo
 [Demo](http://ivp.konkuk.ac.kr/bsvec)
 
-## Project Demo
+## DataSet
 [DataSet](http://ivp.konkuk.ac.kr/bsvec)
