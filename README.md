@@ -8,7 +8,7 @@ Other error concealment and inpainting methods are also implemented in the softw
 
 2D method
 - Bilinear interpolation (BI) method
-- diffusion-based inpainting (DI)
+- diffusion-based inpainting (DI) method
 
 3D method
 - Temporal replacement (TR) method
