@@ -14,6 +14,8 @@ Other error concealment and inpainting methods are also implemented in the softw
 - Bilinear interpolation (BI) method
 - diffusion-based inpainting (DI) method
 
+<img src="https://github.com/bj-c/BSVEC/blob/master/software.png" width="425"/>
+
 ## Summary
 
 This paper proposes a novel video error concealment method for the reconstruction of all unknown regions in frames. 
