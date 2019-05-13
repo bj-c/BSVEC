@@ -28,5 +28,19 @@ The proposed method also gives comparably good reconstruction results for large 
 ## Project Demo
 [Demo](http://ivp.konkuk.ac.kr/bsvec)
 
+- These video files are the simulation results of the proposed method and the previous state-of-the-art methods for the comparison of subjective video quality.
+
+- The manuscript for the proposed method is entitled “Bi-sequential Video Error Concealment Method Using Adaptive Homography-based Registration,”  
+
+- The previous methods for comparison are as follows.
+
+- Newson method:  A. Newson, A. Almansa, M. Fradet, Y. Gousseau, and P. Perez, “Video inpainting of complex scenes,” 
+
+SIAM J. Imag. Sci., vol. 7, no. 4, pp.1993-2019, Oct. 2014.
+
+- Huang method: J.-B. Huang, S. B. Kang, N. Ahuja, and J. Kopf, “Temporally coherent completion of dynamic video,” 
+
+ACM Trans. Graph., vol. 35, no. 6, Art. 196, Nov. 2016.
+
 ## DataSet
 [DataSet](http://ivp.konkuk.ac.kr/bsvec)
