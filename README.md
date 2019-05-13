@@ -6,13 +6,13 @@ This software is the implementation for the following publication. B. Chung and 
 
 Other error concealment and inpainting methods are also implemented in the software.
 
-2D method
-- Bilinear interpolation (BI) method
-- diffusion-based inpainting (DI) method
-
 3D method
 - Bi-sequential video error concealment (BSVEC)
 - Temporal replacement (TR) method
+
+2D method
+- Bilinear interpolation (BI) method
+- diffusion-based inpainting (DI) method
 
 ## Summary
 
