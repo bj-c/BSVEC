@@ -11,6 +11,7 @@ Other error concealment and inpainting methods are also implemented in the softw
 - diffusion-based inpainting (DI) method
 
 3D method
+- Bi-sequential video error concealment (BSVEC)
 - Temporal replacement (TR) method
 
 ## Summary
