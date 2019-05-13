@@ -14,7 +14,7 @@ Other error concealment and inpainting methods are also implemented in the softw
 - Bilinear interpolation (BI) method
 - diffusion-based inpainting (DI) method
 
-<img src="https://github.com/bj-c/BSVEC/blob/master/software." width="1000"/>
+<img src="https://github.com/bj-c/BSVEC/blob/master/software.gif" width="1000"/>
 
 ## TCSVT 2019 Paper
 [TCSVT 2019 Paper](https://ieeexplore.ieee.org/document/8682097)
