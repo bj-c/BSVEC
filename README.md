@@ -7,7 +7,7 @@ This software is the implementation for the following publication. B. Chung and 
 Other error concealment and inpainting methods are also implemented in the software.
 
 3D method
-- Bi-sequential video error concealment (BSVEC)
+- Bi-sequential video error concealment (BSVEC) method
 - Temporal replacement (TR) method
 
 2D method
