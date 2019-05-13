@@ -44,3 +44,22 @@ ACM Trans. Graph., vol. 35, no. 6, Art. 196, Nov. 2016.
 
 ## DataSet
 [DataSet](http://ivp.konkuk.ac.kr/files/DataSet.zip)
+
+# Input video and Mask video
+
+1. Parking Lot video (CTU type, Loss rate=5%)
+2. Parking Lot video (CTU type, Loss rate=10%)
+3. Parking Lot video (CTU type, Loss rate=20%)
+4. Hall video (CTU type, Loss rate=5%)
+5. Hall video (CTU type, Loss rate=10%)
+6. Hall video (CTU type, Loss rate=20%)
+7. Hall video (Slice type, Loss rate=15%)
+8. Hall video (Slice type, Loss rate=25%)
+9. Building video (CTU type, Loss rate=5%)
+10. Building video (CTU type, Loss rate=10%)
+11. Building video (CTU type, Loss rate=20%)
+12. Building video (Slice type, Loss rate=15%)
+13. Building video (Slice type, Loss rate=25%)
+14. Bamboo video (CTU type, Loss rate=20%)
+15. Sleeping video (CTU type, Loss rate=20%)
+16. Cave video (CTU type, Loss rate=20%)
