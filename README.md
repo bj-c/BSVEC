@@ -46,13 +46,9 @@ The proposed method also gives comparably good reconstruction results for large 
 
 - The previous methods for comparison are as follows.
 
-- Newson method:  A. Newson, A. Almansa, M. Fradet, Y. Gousseau, and P. Perez, “Video inpainting of complex scenes,” 
+- Newson method:  A. Newson, A. Almansa, M. Fradet, Y. Gousseau, and P. Perez, “Video inpainting of complex scenes,” SIAM J. Imag. Sci., vol. 7, no. 4, pp.1993-2019, Oct. 2014.
 
-SIAM J. Imag. Sci., vol. 7, no. 4, pp.1993-2019, Oct. 2014.
-
-- Huang method: J.-B. Huang, S. B. Kang, N. Ahuja, and J. Kopf, “Temporally coherent completion of dynamic video,” 
-
-ACM Trans. Graph., vol. 35, no. 6, Art. 196, Nov. 2016.
+- Huang method: J.-B. Huang, S. B. Kang, N. Ahuja, and J. Kopf, “Temporally coherent completion of dynamic video,” ACM Trans. Graph., vol. 35, no. 6, Art. 196, Nov. 2016.
 
 ## DataSet
 [DataSet](http://ivp.konkuk.ac.kr/files/DataSet.zip)
